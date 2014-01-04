@@ -1,0 +1,29 @@
+{
+    "name": "angular-notification",
+    "version": "1.0.0",
+    "description": "Bring Apache Cordova Notification API to AngularJS Apps...",
+    "main": "src/cordovaNotificationModule.js",
+    "scripts": {
+        "bower": "bower install"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/xelita/angular-notification.git"
+    },
+    "keywords": [
+        "angular",
+        "cordova",
+        "notification",
+        "plugin"
+    ],
+    "author": "xelita <admin@xelita.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/xelita/angular-notification/issues"
+    },
+    "homepage": "https://github.com/xelita/angular-notification",
+    "dependecies": {},
+    "devDependencies": {
+        "bower": "~1.2.8"
+    }
+}
